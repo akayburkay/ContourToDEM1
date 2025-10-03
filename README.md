@@ -1,2 +1,2 @@
 # python gdal
-NoData değer ayarı, raster doldurma, dönüklük sıfırlama, interpolasyon işlemleri ile eğrilerle dijital yükselik modeli oluşturulması.
+Digital Elevation Model (DEM) generation from contour lines using NoData value handling, raster filling, rotation correction, and interpolation techniques
